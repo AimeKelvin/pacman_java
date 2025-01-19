@@ -39,7 +39,7 @@ Follow these steps to run the game on your local machine:
    java -cp bin Main
    ```
 
-## Screenshots 📸
+## Gameplay
 ![GamePLay](https://i.pinimg.com/236x/1b/3f/8e/1b3f8e4f0f9d926aeaaa8b62413139de.jpg)  
 (*Replace with actual screenshots of your game*)
 
@@ -52,7 +52,7 @@ This project taught me a lot about:
 
 ## Connect with Me 🤝
 If you have suggestions, feedback, or just want to connect, feel free to reach out:
-- **LinkedIn:** [Aime Kelvin](https://www.linkedin.com/in/aimekelvin)  
+- **LinkedIn:** [Aime Kelvin](www.linkedin.com/in/shimwa-kelvin-4b0630297)  
 - **GitHub:** [Aime Kelvin](https://github.com/Aimekelvin)
 
 ---

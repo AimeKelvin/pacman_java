@@ -9,7 +9,6 @@ public class App {
         int boardHeight = rowCount * tileSize;
 
         JFrame frame = new JFrame("PacMan with JAVA by Kelvin");
-        // frame.setVisible(true);
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizable(false);

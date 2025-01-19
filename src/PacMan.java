@@ -325,7 +325,7 @@ public class PacMan extends JPanel implements ActionListener, KeyListener {
             gameOver = false;
             gameLoop.start();
         }
-        // System.out.println("KeyEvent: " + e.getKeyCode());
+
         if (e.getKeyCode() == KeyEvent.VK_UP) {
             pacman.updateDirection('U');
         }

@@ -9,7 +9,6 @@ Welcome to my first-ever Java project—a classic Pacman game! 🕹️ This proj
 
 ## Project Structure 📂
 - **`src/`**: Contains all the Java source code files.
-- **`assets/`**: Includes any assets like images or sounds used in the game.
 - **`README.md`**: This file—providing details about the project.
 
 ## Technologies Used 💻
@@ -41,7 +40,7 @@ Follow these steps to run the game on your local machine:
    ```
 
 ## Screenshots 📸
-![Game Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)  
+![GamePLay](https://i.pinimg.com/236x/1b/3f/8e/1b3f8e4f0f9d926aeaaa8b62413139de.jpg)  
 (*Replace with actual screenshots of your game*)
 
 ## Challenges & Learnings 🧠
@@ -50,10 +49,6 @@ This project taught me a lot about:
 - **Game Loops:** Implementing continuous gameplay mechanics.
 - **Debugging:** Tackling common beginner mistakes.
 
-## Future Improvements 🛠️
-- Add more levels and complexity.
-- Improve graphics and animations.
-- Introduce sound effects and a scoring system.
 
 ## Connect with Me 🤝
 If you have suggestions, feedback, or just want to connect, feel free to reach out:
